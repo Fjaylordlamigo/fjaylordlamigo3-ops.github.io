@@ -1,0 +1,19 @@
+[
+    {
+        "title": "My Portfolio Website",
+        "description": "My first personal portfolio — built from scratch to showcase my skills and projects.",
+        "technologies": "HTML5, CSS3, JavaScript"
+    },
+    {
+        "title": "Grade Calculator",
+        "description": "A simple web tool that computes grades and tells you if you passed.",
+        "technologies": "HTML, JavaScript"
+    },
+    {
+        "title": "To-Do List App",
+        "description": "A task organizer where you can add, complete, and delete daily tasks.",
+        "technologies": "HTML, CSS, JavaScript"
+    }
+]
+Compose
+Write to f jay lord Lamigo
